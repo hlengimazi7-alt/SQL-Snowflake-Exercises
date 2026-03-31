@@ -1,2 +1,2 @@
 # SQL-Snowflake-Exercises
-Practice Exercises Hand Written 
+This repository is a collection of basic SQL Practice Exercises Hand Written 
